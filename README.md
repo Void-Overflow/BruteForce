@@ -14,7 +14,7 @@ be pretty straight forward. Every hash you make is loged. To find the logged has
 there sohould be . Then from there, you can view your previously made brute forces. 
 For personal help, please submit an issue on this repository.
 
-Like I prevously said, it's a pretty straightforward software. We DO have rules. One huge one is REDISTRIBUTION OF THIS SOFTWARE IS NOT ALLOWED, and WE DO NOT TAKE ACCOUNTABLITY FOR WHAT IS DONE WITH THIS SOFTWARE! For more rules, please read the TOS.txt file lovated in your SHA256 folder. Other than that, feel free to hash away! 
+Like I prevously said, it's a pretty straightforward software. We DO have rules. One huge one is REDISTRIBUTION OF THIS SOFTWARE IS NOT ALLOWED, and WE DO NOT TAKE ACCOUNTABLITY FOR WHAT IS DONE WITH THIS SOFTWARE! For more rules, please read the TOS.txt file lovated in your Logs folder. Other than that, feel free to brute force away! 
 
 This software is managed and owned by 
 Comyar D/Void-Overflow
