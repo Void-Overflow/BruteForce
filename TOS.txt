@@ -1,0 +1,20 @@
+TOS:
+--------------
+Welcome to Brute Forcer! We hope you like our software. 
+There are definantly better alternatives to this software and we understand that.
+One thing we have to offer is  data logging. Meaning, a file is made for each brute force where
+each and every brute force you have generated is stored. This is in the logs folder. Please note that we do NOT record
+any of your data. We understand that our users have a sacred privacy and we will leave 
+it up to them on what they do with our software
+
+TOS:
+--------------
+1: Whatever this software is used for, the fault is completely on the user. Therefore, 
+We do NOT take responsibility for anything that this software is used for.
+
+2: Redistribution of this software is NOT prohibited. Alteration of this software for personal
+use is allowed, but redistributing of the altered OR original software is not allowed.
+If you want to reference a friend to it, have them download it the same LEGAL way you downloaded it./
+
+3:Once this software is installed on your system, you automatically acknowede the TOS.
+
